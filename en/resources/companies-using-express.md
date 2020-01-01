@@ -33,6 +33,9 @@ redirect_from: "/resources/companies-using-express.html"
     <a target="_new" class="imagelink" href="http://www.myntra.com/">
       <img alt="Myntra" class="memberlogo" src="/images/companies/myntra-logo.png" />
     </a>
+    <a target="_new" class="imagelink" href="http://activa-rdc.com/">
+      <img alt="Myntra" class="memberlogo" src="http://activa-rdc.com:3000/assets/img/logo_ok_end.png" />
+    </a>
     <a target="_new" class="imagelink" href="https://nodebb.org/">
       <img alt="NodeBB" class="memberlogo" src="/images/companies/nodeBB-logo.png" />
     </a>
